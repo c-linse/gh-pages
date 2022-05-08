@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  clamav:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2022-05-08T11:08:19.463468+02:00"
+    description: A Helm chart for Kubernetes
+    digest: 24d1ac73276a4f0965f338d4c01a63b4d675bd7e8597405931aa1cf71ccb80a5
+    name: clamav
+    type: application
+    urls:
+    - https://github.com/c-linse/gh-pages/clamav-0.1.0.tgz
+    version: 0.1.0
+generated: "2022-05-08T11:08:19.462679+02:00"
